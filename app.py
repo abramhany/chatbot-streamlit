@@ -97,3 +97,5 @@ if prompt := st.chat_input("What is your question?"):
         st.markdown(response)
     # Add assistant response to chat history
     st.session_state.messages.append({"role": "assistant", "content": response}) 
+
+    #to run  code write : streamlit run app.py

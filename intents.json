@@ -16,21 +16,7 @@
           "Hey! What do you want to know about Egypt?"
         ]
       }
-    ,{
-      "tag": "general_greetings",
-      "patterns": [
-        "Hello",
-        "Hi",
-        "Hey",
-        "Good morning",
-        "Good evening"
-      ],
-      "responses": [
-        "Hello! How can I assist you today?",
-        "Hi there! What can I do for you?",
-        "Hey! How can I help?"
-      ]
-    },
+    ,
     {
       "tag": "general_farewell",
       "patterns": [
