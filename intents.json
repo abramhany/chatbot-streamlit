@@ -2235,7 +2235,393 @@
         "responses": [
           "The Agriculture Museum in Cairo is one of the largest agricultural museums in the world. It features exhibits on the history of agriculture in Egypt, including ancient farming tools, crops, and irrigation techniques."
         ]
-      }
+      },
+        {
+          "tag": "Royal Carriages Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Royal Carriages Museum?",
+            "When is the Royal Carriages Museum open?",
+            "What time does the Royal Carriages Museum close?",
+            "Tell me the visiting hours for the Royal Carriages Museum"
+          ],
+          "responses": [
+            "The Royal Carriages Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:15 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Cairo Airport Museum T2 Hours",
+          "patterns": [
+            "What are the opening hours of Cairo Airport Museum Terminal 2?",
+            "When is the Cairo Airport Museum Terminal 2 open?",
+            "What time does Cairo Airport Museum T2 close?"
+          ],
+          "responses": [
+            "Cairo International Airport Museum Terminal 2 is open 24 hours daily, with regular visiting hours from 9:00 AM to 3:00 PM. During Ramadan, the same hours apply with last tickets sold at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Cairo Airport Museum T3 Hours",
+          "patterns": [
+            "What are the opening hours of Cairo Airport Museum Terminal 3?",
+            "When is the Cairo Airport Museum Terminal 3 open?",
+            "What time does Cairo Airport Museum T3 close?"
+          ],
+          "responses": [
+            "Cairo International Airport Museum Terminal 3 is open 24 hours daily. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Crocodile Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Crocodile Museum?",
+            "When is the Crocodile Museum open?",
+            "What time does the Crocodile Museum close?"
+          ],
+          "responses": [
+            "The Crocodile Museum is open from 7:00 AM to 9:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Gayer Anderson Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Gayer Anderson Museum?",
+            "When is the Gayer Anderson Museum open?",
+            "What time does the Gayer Anderson Museum close?"
+          ],
+          "responses": [
+            "The Gayer Anderson Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:30 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Graeco-Roman Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Graeco-Roman Museum?",
+            "When is the Graeco-Roman Museum open?",
+            "What time does the Graeco-Roman Museum close?"
+          ],
+          "responses": [
+            "The Graeco-Roman Museum is open from 9:00 AM to 5:00 PM. During Ramadan, hours are 9:00 AM to 4:00 PM with last tickets at 3:00 PM."
+          ]
+        },
+        {
+          "tag": "Hurghada Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Hurghada Museum?",
+            "When is the Hurghada Museum open?",
+            "What time does the Hurghada Museum close?"
+          ],
+          "responses": [
+            "The Hurghada Museum has two sessions: 10:00 AM to 1:00 PM (last tickets at 12:00 PM) and evening hours 5:00 PM to 11:00 PM (last tickets at 10:00 PM). During Ramadan, morning hours are 10:00 AM to 2:00 PM and evening hours are 8:00 PM to 11:00 PM."
+          ]
+        },
+        {
+          "tag": "Imhotep Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Imhotep Museum?",
+            "When is the Imhotep Museum open?",
+            "What time does the Imhotep Museum close?"
+          ],
+          "responses": [
+            "The Imhotep Museum is open from 8:00 AM to 5:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Egyptian Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Egyptian Museum?",
+            "When is the Egyptian Museum open?",
+            "What time does the Egyptian Museum close?"
+          ],
+          "responses": [
+            "The Egyptian Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 4:00 PM with last tickets at 3:00 PM."
+          ]
+        },
+        {
+          "tag": "NMEC Hours",
+          "patterns": [
+            "What are the opening hours of the National Museum of Egyptian Civilization?",
+            "When is NMEC open?",
+            "What time does the National Museum of Egyptian Civilization close?"
+          ],
+          "responses": [
+            "The National Museum of Egyptian Civilization is open daily from 9:00 AM to 5:00 PM, with evening hours from 6:00 PM to 9:00 PM. During Ramadan, hours are 9:00 AM to 4:00 PM with last tickets at 3:00 PM."
+          ]
+        },
+        {
+          "tag": "Helwan Corner Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Helwan Corner Museum?",
+            "When is the Helwan Corner Museum open?",
+            "What time does the Helwan Corner Museum close?"
+          ],
+          "responses": [
+            "The Helwan Corner Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:30 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Kafr El-Sheikh Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Kafr El-Sheikh Museum?",
+            "When is the Kafr El-Sheikh Museum open?",
+            "What time does the Kafr El-Sheikh Museum close?"
+          ],
+          "responses": [
+            "The Kafr El-Sheikh Museum is open from 9:00 AM to 4:00 PM, with last tickets sold at 3:30 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Manial Palace Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Manial Palace Museum?",
+            "When is the Manial Palace Museum open?",
+            "What time does the Manial Palace Museum close?"
+          ],
+          "responses": [
+            "The Manial Palace Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Mummification Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Mummification Museum?",
+            "When is the Mummification Museum open?",
+            "What time does the Mummification Museum close?"
+          ],
+          "responses": [
+            "The Mummification Museum has two sessions: 9:00 AM to 2:00 PM (last tickets at 1:30 PM) and evening hours 5:00 PM to 9:00 PM (last tickets at 8:30 PM). During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Museum of Islamic Art Hours",
+          "patterns": [
+            "What are the opening hours of the Museum of Islamic Art?",
+            "When is the Museum of Islamic Art open?",
+            "What time does the Museum of Islamic Art close?"
+          ],
+          "responses": [
+            "The Museum of Islamic Art is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "National Military Museum Hours",
+          "patterns": [
+            "What are the opening hours of the National Military Museum?",
+            "When is the National Military Museum open?",
+            "What time does the National Military Museum close?"
+          ],
+          "responses": [
+            "The National Military Museum is open from 8:00 AM to 4:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "National Police Museum Hours",
+          "patterns": [
+            "What are the opening hours of the National Police Museum?",
+            "When is the National Police Museum open?",
+            "What time does the National Police Museum close?"
+          ],
+          "responses": [
+            "The National Police Museum is open from 8:00 AM to 4:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Nubia Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Nubia Museum?",
+            "When is the Nubia Museum open?",
+            "What time does the Nubia Museum close?"
+          ],
+          "responses": [
+            "The Nubia Museum is open from 9:00 AM to 5:00 PM (last tickets at 4:00 PM), with evening hours on Thursday and Friday from 6:00 PM to 9:00 PM (last tickets at 8:00 PM). During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Royal Jewelry Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Royal Jewelry Museum?",
+            "When is the Royal Jewelry Museum open?",
+            "What time does the Royal Jewelry Museum close?"
+          ],
+          "responses": [
+            "The Royal Jewelry Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Sharm al-Sheikh Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Sharm al-Sheikh Museum?",
+            "When is the Sharm al-Sheikh Museum open?",
+            "What time does the Sharm al-Sheikh Museum close?"
+          ],
+          "responses": [
+            "The Sharm al-Sheikh Museum has two sessions: 10:00 AM to 1:00 PM (last tickets at 12:00 PM) and evening hours 5:00 PM to 11:00 PM (last tickets at 10:00 PM). During Ramadan, morning hours are 10:00 AM to 2:00 PM and evening hours are 8:00 PM to 11:00 PM."
+          ]
+        },
+        {
+          "tag": "Coptic Museum Hours",
+          "patterns": [
+            "What are the opening hours of the Coptic Museum?",
+            "When is the Coptic Museum open?",
+            "What time does the Coptic Museum close?"
+          ],
+          "responses": [
+            "The Coptic Museum is open from 9:00 AM to 5:00 PM, with last tickets sold at 4:00 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "National Museum of Suez Hours",
+          "patterns": [
+            "What are the opening hours of the National Museum of Suez?",
+            "When is the National Museum of Suez open?",
+            "What time does the National Museum of Suez close?"
+          ],
+          "responses": [
+            "The National Museum of Suez is open from 9:00 AM to 3:00 PM, with last tickets sold at 2:30 PM. During Ramadan, hours are 9:00 AM to 3:00 PM with last tickets at 2:00 PM."
+          ]
+        },
+        {
+          "tag": "Helwan Corner Museum Prices",
+          "patterns": [
+            "How much are tickets for the Helwan Corner Museum?",
+            "What is the entrance fee for the Helwan Corner Museum?",
+            "What are the ticket prices at the Helwan Corner Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 100 EGP and student tickets are 50 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 10 EGP."
+          ]
+        },
+        {
+          "tag": "Hurghada Museum Prices",
+          "patterns": [
+            "How much are tickets for the Hurghada Museum?",
+            "What is the entrance fee for the Hurghada Museum?",
+            "What are the ticket prices at the Hurghada Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 200 EGP and student tickets are 100 EGP. For Egyptians and Arabs, adult tickets are 80 EGP and student tickets are 40 EGP. Audio tours are available for 50 EGP (foreigners) and 30 EGP (Egyptians/Arabs)."
+          ]
+        },
+        {
+          "tag": "Imhotep Museum Prices",
+          "patterns": [
+            "How much are tickets for the Imhotep Museum?",
+            "What is the entrance fee for the Imhotep Museum?",
+            "What are the ticket prices at the Imhotep Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 600 EGP and student tickets are 300 EGP. For Egyptians and Arabs, adult tickets are 30 EGP and student tickets are 10 EGP. This includes entry to both Saqqara area and Imhotep Museum."
+          ]
+        },
+        {
+          "tag": "Manial Palace Museum Prices",
+          "patterns": [
+            "How much are tickets for the Manial Palace Museum?",
+            "What is the entrance fee for the Manial Palace Museum?",
+            "What are the ticket prices at the Manial Palace Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 220 EGP and student tickets are 110 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 5 EGP."
+          ]
+        },
+        {
+          "tag": "Mummification Museum Prices",
+          "patterns": [
+            "How much are tickets for the Mummification Museum?",
+            "What is the entrance fee for the Mummification Museum?",
+            "What are the ticket prices at the Mummification Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 220 EGP and student tickets are 110 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 5 EGP."
+          ]
+        },
+        {
+          "tag": "Museum of Islamic Art Prices",
+          "patterns": [
+            "How much are tickets for the Museum of Islamic Art?",
+            "What is the entrance fee for the Museum of Islamic Art?",
+            "What are the ticket prices at the Museum of Islamic Art?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 340 EGP and student tickets are 170 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 10 EGP."
+          ]
+        },
+        {
+          "tag": "National Military Museum Prices",
+          "patterns": [
+            "How much are tickets for the National Military Museum?",
+            "What is the entrance fee for the National Military Museum?",
+            "What are the ticket prices at the National Military Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 200 EGP and student tickets are 100 EGP. For Egyptians and Arabs, adult tickets are 60 EGP and student tickets are 30 EGP. This includes entry to both Cairo Citadel and National Police Museum."
+          ]
+        },
+        {
+          "tag": "National Police Museum Prices",
+          "patterns": [
+            "How much are tickets for the National Police Museum?",
+            "What is the entrance fee for the National Police Museum?",
+            "What are the ticket prices at the National Police Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 200 EGP and student tickets are 100 EGP. For Egyptians and Arabs, adult tickets are 60 EGP and student tickets are 30 EGP. This includes entry to both Cairo Citadel and National Military Museum."
+          ]
+        },
+        {
+          "tag": "Nubia Museum Prices",
+          "patterns": [
+            "How much are tickets for the Nubia Museum?",
+            "What is the entrance fee for the Nubia Museum?",
+            "What are the ticket prices at the Nubia Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 400 EGP and student tickets are 200 EGP. For Egyptians and Arabs, adult tickets are 30 EGP and student tickets are 10 EGP."
+          ]
+        },
+        {
+          "tag": "Royal Jewelry Museum Prices",
+          "patterns": [
+            "How much are tickets for the Royal Jewelry Museum?",
+            "What is the entrance fee for the Royal Jewelry Museum?",
+            "What are the ticket prices at the Royal Jewelry Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 220 EGP and student tickets are 110 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 5 EGP."
+          ]
+        },
+        {
+          "tag": "Sharm al-Sheikh Museum Prices",
+          "patterns": [
+            "How much are tickets for the Sharm al-Sheikh Museum?",
+            "What is the entrance fee for the Sharm al-Sheikh Museum?",
+            "What are the ticket prices at the Sharm al-Sheikh Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 200 EGP and student tickets are 100 EGP. For Egyptians and Arabs, adult tickets are 40 EGP and student tickets are 20 EGP. Audio tours are available for 50 EGP (foreigners) and 30 EGP (Egyptians/Arabs)."
+          ]
+        },
+        {
+          "tag": "Coptic Museum Prices",
+          "patterns": [
+            "How much are tickets for the Coptic Museum?",
+            "What is the entrance fee for the Coptic Museum?",
+            "What are the ticket prices at the Coptic Museum?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 280 EGP and student tickets are 140 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 10 EGP."
+          ]
+        },
+        {
+          "tag": "National Museum of Suez Prices",
+          "patterns": [
+            "How much are tickets for the National Museum of Suez?",
+            "What is the entrance fee for the National Museum of Suez?",
+            "What are the ticket prices at the National Museum of Suez?"
+          ],
+          "responses": [
+            "For foreigners, adult tickets are 180 EGP and student tickets are 90 EGP. For Egyptians and Arabs, adult tickets are 20 EGP and student tickets are 10 EGP."
+          ]
+        }
       
       
       
